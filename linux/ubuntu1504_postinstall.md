@@ -18,6 +18,6 @@ Install console programs
 Servers
 
     sudo apt-get install ssh apache2 mysql-server libapache2-mod-suphp php5-mysql php5-gd php5-mcrypt
-    sudo php5enmmod mcrypt
+    sudo php5enmod mcrypt
     sudo a2enmod rewrite
     sudo a2enmod userdir
