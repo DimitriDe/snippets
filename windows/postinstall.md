@@ -1,0 +1,18 @@
+#Programs to install
+- Mozilla Firefox
+- Mozilla Thunderbird
+- Hexchat
+- Winamp 2.95
+- Libre Office 5
+- Putty
+- Filezilla
+- Notepad++
+- Process explorer
+- Papercut
+- Netbeans 8.1
+- Colorpick
+- 7zip
+- Gvim
+- Winmerge
+- Tortoise SVN
+- Uwamp
