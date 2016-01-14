@@ -1,0 +1,36 @@
+apt-get update
+apt-get upgrade
+apt-get install apache2 mysql-server
+apt-get install libapache2-mod-suphp
+apt-get install nano
+apt-get install htop
+apt-get install php5-mysql
+apt-get install postfix
+apt-get install php-soap
+apt-get install php5-mcrypt
+php5enmod mcrypt
+
+a2enmod userdir
+a2enmod ssl
+a2enmod rewrite
+
+nano userdir.conf
+
+cd /etc/php5/
+cd cgi/
+nano php.ini
+
+cd /etc/apache2/mods-enabled/
+nano suphp.conf
+cd /etc/suphp/
+nano suphp.conf
+
+cd /etc/apache2/sites-available/
+nano default-ssl
+a2ensite default-ssl
+
+service apache2 restart
+
+nano /etc/init.d/fireinthehole
+chmod +x /etc/init.d/fireinthehole
+update-rc.d fireinthehole defaults
