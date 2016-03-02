@@ -8,7 +8,7 @@ Update repositories and packages
 Install common programs
 
     sudo apt-get install audacious hexchat gimp inkscape meld filezilla gedit-plugins
-    sudo apt-get install unity-tweak-tools virtualbox gftp dillo
+    sudo apt-get install unity-tweak-tool virtualbox gftp dillo
 
 Install console programs
 
