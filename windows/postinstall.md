@@ -1,18 +1,31 @@
 #Programs to install
+- 7zip
+- Atom
+- Blender
+- CarotDAV
+- Ccleaner
+- Colorpick
+- Fiddler
+- Filezilla
+- Gvim
+- Hexchat
+- Inkscape
+- Libre Office 5
+- Minecraft
 - Mozilla Firefox
 - Mozilla Thunderbird
-- Hexchat
-- Winamp 2.95
-- Libre Office 5
-- Putty
-- Filezilla
-- Notepad++
-- Process explorer
-- Papercut
 - Netbeans 8.1
-- Colorpick
-- 7zip
-- Gvim
-- Winmerge
+- Notepad++
+- Papercut
+- Process explorer
+- Putty
+- Skype
+- Steam
+- Sumatra PDF
 - Tortoise SVN
+- Treesheets
 - Uwamp
+- VLC
+- VirtualBox
+- Winamp 2.95
+- Winmerge
