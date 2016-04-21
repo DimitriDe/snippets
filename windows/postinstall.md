@@ -11,10 +11,12 @@
 - Hexchat
 - Inkscape
 - Libre Office 5
+- Malwarebytes
 - Minecraft
 - Mozilla Firefox
 - Mozilla Thunderbird
 - Netbeans 8.1
+- NodeJS
 - Notepad++
 - Papercut
 - Process explorer
@@ -22,6 +24,7 @@
 - Skype
 - Steam
 - Sumatra PDF
+- TightVNC
 - Tortoise SVN
 - Treesheets
 - Uwamp
@@ -29,3 +32,4 @@
 - VirtualBox
 - Winamp 2.95
 - Winmerge
+- XNView
