@@ -64,12 +64,12 @@ Les services : https://www.grafikart.fr/formations/angularjs/services
 Les promesses : https://www.grafikart.fr/formations/angularjs/promesses  
 Les filtres : https://www.grafikart.fr/formations/angularjs/filtres 
 
-Créer des directives : https://www.grafikart.fr/formations/angularjs/creer-directive
-Les ressources : https://www.grafikart.fr/formations/angularjs/resources
+Créer des directives : https://www.grafikart.fr/formations/angularjs/creer-directive  
+Les ressources : https://www.grafikart.fr/formations/angularjs/resources  
 $apply, $watch, $digest : https://www.grafikart.fr/formations/angularjs/apply-watch-digest
 
 **Autres**  
-Tutoriels en français aussi : http://www.tutoriel-angularjs.fr/
+Tutoriels en français aussi : http://www.tutoriel-angularjs.fr/  
 Blog sur Angular : http://www.frangular.com/
 
 **Utiles**  
