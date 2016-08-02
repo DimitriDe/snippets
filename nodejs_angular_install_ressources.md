@@ -40,9 +40,14 @@ Effectuer des tâches automatisées récurentes
 `npm install -g grunt-cli`
 
 **Live-server**  
-Serveur web miniature qui permet de servir des fichiers statiques localement et gérer le live-reload
+Serveur web miniature qui permet de servir des fichiers statiques localement et gérer le live-reload  
 `npm install -g live-server`  
 Pour lancer le serveur il suffit de taper : `live-server` dans un terminal au niveau du dossier que l'on veut partager
+
+**nodemon**  
+Relancer l'execution d'un script nodejs dès qu'un de ses fichiers a été modifié  
+`npm install -g nodemon`  
+Pour lancer le script il suffira de saisir dans un terminal : `nodemon index.js` par exemple
 
 **SASS**  
 "Compilateur" de fichiers CSS  
