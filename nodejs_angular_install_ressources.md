@@ -39,6 +39,11 @@ Automatiser la création d'un projet et l'obtention de ses assets
 Effectuer des tâches automatisées récurentes  
 `npm install -g grunt-cli`
 
+**Live-server**  
+Serveur web miniature qui permet de servir des fichiers statiques localement et gérer le live-reload
+`npm install -g live-server`  
+Pour lancer le serveur il suffit de taper : `live-server` dans un terminal au niveau du dossier que l'on veut partager
+
 **SASS**  
 "Compilateur" de fichiers CSS  
 `gem install sass`
