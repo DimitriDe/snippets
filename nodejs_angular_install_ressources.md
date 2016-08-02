@@ -54,3 +54,27 @@ bower.json pour.. bower
 
 ##Tutoriaux et ressources sur AngularJS
 
+**Formation AngularJS (Graphikart)**  
+Introduction : https://www.grafikart.fr/formations/angularjs  
+Les directives : https://www.grafikart.fr/formations/angularjs/directives  
+Les controlleurs et le scope : https://www.grafikart.fr/formations/angularjs/controller-scope  
+Les modules : https://www.grafikart.fr/formations/angularjs/module  
+Les routes : https://www.grafikart.fr/formations/angularjs/routes  
+Les services : https://www.grafikart.fr/formations/angularjs/services  
+Les promesses : https://www.grafikart.fr/formations/angularjs/promesses  
+Les filtres : https://www.grafikart.fr/formations/angularjs/filtres 
+
+Créer des directives : https://www.grafikart.fr/formations/angularjs/creer-directive
+Les ressources : https://www.grafikart.fr/formations/angularjs/resources
+$apply, $watch, $digest : https://www.grafikart.fr/formations/angularjs/apply-watch-digest
+
+**Autres**  
+Tutoriels en français aussi : http://www.tutoriel-angularjs.fr/
+Blog sur Angular : http://www.frangular.com/
+
+**Utiles**  
+Récursion dans un template : http://jsfiddle.net/brendanowen/uXbn6/8/  
+Promises : http://www.frangular.com/2012/12/api-promise-angularjs.html
+
+**Composants**  
+vAccordion : http://codepen.io/LukaszWatroba/pen/MwdaLo
