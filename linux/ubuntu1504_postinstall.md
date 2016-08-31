@@ -37,3 +37,11 @@ Install Java :
     #java version "1.8.0_XX"
     #Java(TM) SE Runtime Environment (build 1.8.0_XX-yyy)
     #Java HotSpot(TM) 64-Bit Server VM (build aa.bb-yyy, mixed mode)
+
+Flat os theme :
+
+    sudo add-apt-repository ppa:noobslab/themes
+    sudo add-apt-repository ppa:noobslab/icons
+    sudo apt-get update
+    sudo apt-get install flatabulous-theme
+    sudo apt-get install ultra-flat-icons
